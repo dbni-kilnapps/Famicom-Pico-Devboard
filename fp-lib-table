@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name "custom footprints")(type KiCad)(uri "${KIPRJMOD}/custom footprints.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "custom footprints")(type "KiCad")(uri "${KIPRJMOD}/custom footprints.pretty")(options "")(descr ""))
+  (lib (name "Module_RaspberryPi_Pico")(type "KiCad")(uri "/Users/myawesomemacboook/Downloads/RaspberryPi_Pico/Module_RaspberryPi_Pico.pretty")(options "")(descr ""))
 )
