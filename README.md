@@ -1,8 +1,8 @@
-# FME7/S5A/S5B Development/Reproduction Cartridge Board
+# Famicom Development Board
 
 ![](docs/SUNSOFT-E301.png)
 
-An Open-Source HardWare (OSHW) development/reproduction cartridge PCB designed for INES mapper 69.
+An Open-Source HardWare (OSHW) development PCB designed for the Famicom that utilizes the Raspberry Pi Pico (RP2040) as a mapper.
 
 ## PCB Specifications
 
@@ -20,11 +20,7 @@ The PCB and schematics are licensed under the TAPR Open Hardware License ([www.t
 
 ## Credits
 
-- Lockster - Help and assistance with schematics
-- lidnariq - Clarification on FME7 connections
-- yoeynsf - Pixel art of Dagga
-- plgDavid - Inspiration
-- Special thanks to the NESDEV community, this project wouldn't have been possible without their extensive help and wiki.
+- Gumball2415 - Board base design and schematics
 
 ## Support
 
